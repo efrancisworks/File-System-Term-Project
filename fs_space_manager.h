@@ -1,7 +1,6 @@
 /**************************************************************
 * Class:  CSC-415-02 Summer 2021
 * Names: Emanuel Francis,Christian Jackson, Anish Somisetty, Johnny Tram
-* Student IDs: 917491268, 921804361,921956526,921229449
 * GitHub Name: Emanuelf-sfsu, narxlol, vsomisetty1, JohnnyTram
 * Group Name:Pseudo Warriors
 * Project: Basic File System
